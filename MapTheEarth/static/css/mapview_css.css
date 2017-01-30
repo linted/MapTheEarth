@@ -5,3 +5,12 @@
     height:10%;
     background:rgba(49,49,49,0.5);
 }
+
+#background {
+    z-index: -1;
+    left: 5%;
+    top: 5%;
+    position: absolute;
+    width: 90%;
+    height: 90%;
+}
